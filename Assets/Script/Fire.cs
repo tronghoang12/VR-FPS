@@ -12,6 +12,6 @@ public class Fire : MonoBehaviour
     {
         GameObject spawnBullet = Instantiate(bullet, spawnPoint.position, spawnPoint.rotation);
         spawnBullet.GetComponent<Rigidbody>().velocity = spawnPoint.forward * bulletSpeed;
-        Destroy(spawnBullet, 5f);
+        Destroy(spawnBullet, 4f);
     }
 }
