@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - LeftHand
-  - RightHand
-  - Bullet
-  - Weapon
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -15,15 +11,15 @@ TagManager:
   - 
   - Water
   - UI
-  - Interactable
   - Player
-  - Door
-  - Frame
-  - Ground
+  - Bullet
+  - Hand
+  - HandPresence
   - 
+  - Interactable
+  - ChildInteractable
   - 
-  - 
-  - 
+  - PostProcessing
   - 
   - 
   - 
