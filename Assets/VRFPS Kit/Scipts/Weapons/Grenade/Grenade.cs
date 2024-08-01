@@ -82,7 +82,7 @@ namespace VRFPSKit
 
             //Enable physics on the pin, and reset velocity
             safetyPin.isKinematic = false;
-            safetyPin.velocity = Vector3.zero;
+            safetyPin.linearVelocity = Vector3.zero;
 
             //Schedule safety pin object destruction
             Destroy(safetyPin.gameObject, 10);
@@ -100,7 +100,7 @@ namespace VRFPSKit
 
             //Enable physics on the lever, and use same velocity as grenade
             lever.isKinematic = false;
-            lever.velocity = GetComponent<Rigidbody>().velocity * .3f;
+            lever.linearVelocity = GetComponent<Rigidbody>().linearVelocity * .3f;
             //TODO random angular vel
 
             //Schedule lever object destruction

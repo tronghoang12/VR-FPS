@@ -37,7 +37,7 @@ namespace VRFPSKit
             _rigidbody.AddForce(Physics.gravity.magnitude * liftMultiplier * transform.up, ForceMode.Acceleration);
 
             //Rotate so that the y-axis is facing in the direction of travel, will achieve a glide movement
-            transform.rotation *= Quaternion.FromToRotation(transform.forward, _rigidbody.velocity.normalized);
+            transform.rotation *= Quaternion.FromToRotation(transform.forward, _rigidbody.linearVelocity.normalized);
         }
 
         /// <summary>
