@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: E:/VR-project/VR-FPS/Packages/manifest.json
+    m_FilePath: C:/General/Coding/VR-games/VR-FPS/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638583816594101118
-    m_Hash: 3695911249
+      ticks: 638585096377548469
+    m_Hash: 1222803287
   m_LockFileStatus:
-    m_FilePath: E:/VR-project/VR-FPS/Packages/packages-lock.json
+    m_FilePath: C:/General/Coding/VR-games/VR-FPS/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638583817027516617
-    m_Hash: 344377543
+      ticks: 638585096377600736
+    m_Hash: 4082426212
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: E:/VR-project/VR-FPS/Packages
+m_ProjectPath: C:/General/Coding/VR-games/VR-FPS/Packages
 m_EditorVersion: 2022.3.40f1 (cbdda657d2f0)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@1.1.5
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.5
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.ai.navigation@1.1.5
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.ai.navigation@1.1.5
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -56,7 +56,6 @@ m_ResolvedPackages:
     - 2.0.0-pre.3
     - 2.0.0-pre.4
     - 2.0.0
-    - 2.0.3
     compatible:
     - 1.1.5
     recommended: 1.1.5
@@ -100,7 +99,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.4.4
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.collab-proxy@2.4.4
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.collab-proxy@2.4.4
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -244,7 +243,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.feature.development@1.0.1
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -338,7 +337,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.31
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.ide.rider@3.0.31
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.ide.rider@3.0.31
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -347,7 +346,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: The JetBrains Rider Editor package provides an integration for using
     the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
     .csproj files for code completion and auto-discovery of installations.
@@ -419,7 +418,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638548308080000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
@@ -441,7 +440,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -531,7 +530,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -600,7 +599,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 14.0.11
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.render-pipelines.high-definition@14.0.11
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.render-pipelines.high-definition@14.0.11
   assetPath: Packages/com.unity.render-pipelines.high-definition
   name: com.unity.render-pipelines.high-definition
   displayName: High Definition RP
@@ -818,7 +817,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 14.0.11
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.render-pipelines.universal@14.0.11
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.render-pipelines.universal@14.0.11
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -961,7 +960,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 14.0.11
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.shadergraph@14.0.11
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.shadergraph@14.0.11
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -1137,7 +1136,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1199,8 +1198,6 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
-    - 1.4.4
-    - 1.4.5
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -1220,8 +1217,6 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
-    - 1.4.4
-    - 1.4.5
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -1277,7 +1272,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1393,7 +1388,6 @@ m_ResolvedPackages:
     - 3.0.6
     - 3.0.7
     - 3.0.8
-    - 3.0.9
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -1403,14 +1397,12 @@ m_ResolvedPackages:
     - 3.2.0-pre.7
     - 3.2.0-pre.8
     - 3.2.0-pre.9
-    - 3.2.0-pre.10
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
     - 3.0.6
     - 3.0.7
     - 3.0.8
-    - 3.0.9
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -1420,10 +1412,9 @@ m_ResolvedPackages:
     - 3.2.0-pre.7
     - 3.2.0-pre.8
     - 3.2.0-pre.9
-    - 3.2.0-pre.10
     - 4.0.0-pre.1
     - 4.0.0-pre.2
-    recommended: 3.0.9
+    recommended: 3.0.8
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -1473,7 +1464,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.6
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.timeline@1.7.6
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1574,7 +1565,6 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
-    - 1.8.7
     compatible:
     - 1.7.6
     - 1.8.0
@@ -1584,7 +1574,6 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
-    - 1.8.7
     recommended: 1.7.6
     deprecated: []
   dependencies:
@@ -1643,7 +1632,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1664,7 +1653,6 @@ m_ResolvedPackages:
     - 1.0.0
     - 3.0.0-exp.1
     - 3.0.0-exp.3
-    - 3.0.0-exp.4
     compatible:
     - 1.0.0
     recommended: 1.0.0
@@ -1716,7 +1704,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.4
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.visualscripting@1.9.4
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.visualscripting@1.9.4
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1793,7 +1781,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638488567680000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -1815,7 +1803,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.5.4
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.xr.interaction.toolkit@2.5.4
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.xr.interaction.toolkit@2.5.4
   assetPath: Packages/com.unity.xr.interaction.toolkit
   name: com.unity.xr.interaction.toolkit
   displayName: XR Interaction Toolkit
@@ -1824,7 +1812,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: XR
-  type: assets
+  type: 
   description: A high-level, component-based, interaction system for creating VR
     and AR experiences. It provides a framework that makes 3D and UI interactions
     available from Unity input events. The core of this system is a set of base Interactor
@@ -1872,26 +1860,11 @@ m_ResolvedPackages:
     - 2.5.0
     - 2.5.1
     - 2.5.2
-    - 2.5.3
     - 2.5.4
-    - 2.6.3
     - 3.0.0-pre.1
-    - 3.0.0-pre.2
-    - 3.0.0
-    - 3.0.1
-    - 3.0.3
-    - 3.0.4
-    - 3.0.5
     compatible:
     - 2.5.4
-    - 2.6.3
     - 3.0.0-pre.1
-    - 3.0.0-pre.2
-    - 3.0.0
-    - 3.0.1
-    - 3.0.3
-    - 3.0.4
-    - 3.0.5
     recommended: 2.5.4
     deprecated: []
   dependencies:
@@ -1955,7 +1928,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638484578960000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.5/manual/index.html
   hasRepository: 1
   repository:
@@ -1977,7 +1950,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.5.0
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.xr.management@4.5.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.xr.management@4.5.0
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -2116,7 +2089,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.2.0
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.xr.oculus@4.2.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.xr.oculus@4.2.0
   assetPath: Packages/com.unity.xr.oculus
   name: com.unity.xr.oculus
   displayName: Oculus XR Plugin
@@ -2125,7 +2098,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: Provides display and input support for Oculus devices.
   status: 0
   errors: []
@@ -2204,7 +2177,6 @@ m_ResolvedPackages:
     - 3.2.3-pre.1
     - 3.2.3
     - 3.3.0
-    - 3.4.0
     - 4.0.0
     - 4.1.1
     - 4.1.2
@@ -2251,7 +2223,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638430747650000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.oculus@4.2/manual/index.html
   hasRepository: 1
   repository:
@@ -2273,7 +2245,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.11.0
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.xr.openxr@1.11.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.xr.openxr@1.11.0
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -2282,7 +2254,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: OpenXR is an open, royalty-free standard developed by Khronos that
     aims to simplify AR/VR development by allowing developers to target a wide range
     of AR/VR devices. Use this plug-in to enable OpenXR in XR Plug-in Management.
@@ -2315,15 +2287,9 @@ m_ResolvedPackages:
     - 1.8.1
     - 1.8.2
     - 1.9.1
-    - 1.10.0
-    - 1.11.0-exp.1
     - 1.11.0
-    - 1.11.1-exp.1
-    - 1.12.0-exp.1
     compatible:
     - 1.11.0
-    - 1.11.1-exp.1
-    - 1.12.0-exp.1
     recommended: 1.11.0
     deprecated: []
   dependencies:
@@ -2375,7 +2341,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638509290420000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.11/manual/index.html
   hasRepository: 1
   repository:
@@ -2397,7 +2363,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -2453,7 +2419,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -2508,7 +2474,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2564,7 +2530,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2620,7 +2586,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2676,7 +2642,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2736,7 +2702,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2800,7 +2766,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2857,7 +2823,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2913,7 +2879,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2969,7 +2935,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -3025,7 +2991,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -3081,7 +3047,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -3137,7 +3103,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -3197,7 +3163,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -3253,7 +3219,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -3317,7 +3283,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -3376,7 +3342,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3432,7 +3398,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3500,7 +3466,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3556,7 +3522,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3620,7 +3586,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3676,7 +3642,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3740,7 +3706,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3804,7 +3770,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3868,7 +3834,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3948,7 +3914,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -4008,7 +3974,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -4076,7 +4042,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -4146,7 +4112,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -4202,7 +4168,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -4270,7 +4236,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4330,7 +4296,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.10
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -4339,7 +4305,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: XR
-  type: asset
+  type: 
   description: This package includes the tracked pose driver for the legacy input
     system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
     Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
@@ -4350,30 +4316,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.0
-    - 1.0.2
-    - 1.0.3
-    - 1.3.1
-    - 1.3.2
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.11
-    - 2.0.1
-    - 2.0.2
-    - 2.0.4
-    - 2.0.6
-    - 2.0.8
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.6
-    - 2.1.7
-    - 2.1.8
-    - 2.1.9
     - 2.1.10
     compatible:
     - 2.1.10
@@ -4411,7 +4353,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637958908030000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -4433,7 +4375,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.7.0
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.inputsystem@1.7.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.inputsystem@1.7.0
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -4492,20 +4434,10 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.9.0
-    - 1.10.0
     compatible:
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.9.0
-    - 1.10.0
     recommended: 1.7.0
     deprecated: []
   dependencies:
@@ -4561,7 +4493,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.3.0
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.xr.core-utils@2.3.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.xr.core-utils@2.3.0
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -4570,7 +4502,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: "Common utility classes for XR projects\nRefer to API documentation
     for details. Some particularly useful utilities include:\n\u25AA Geometry Utilities\n 
     \u25AA Point of closest approach\n  \u25AA Closest edge of a polygon\n  \u25AA
@@ -4583,32 +4515,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 2.0.0-pre.3
-    - 2.0.0-pre.5
-    - 2.0.0-pre.6
-    - 2.0.0
-    - 2.0.1
-    - 2.1.0-pre.1
-    - 2.1.0
-    - 2.1.1
-    - 2.2.0-pre.1
-    - 2.2.0-pre.2
-    - 2.2.0
-    - 2.2.1
-    - 2.2.2
-    - 2.2.3
-    - 2.3.0-pre.1
-    - 2.3.0-pre.2
-    - 2.3.0-pre.3
     - 2.3.0
-    - 2.4.0-exp.1
-    - 2.4.0-exp.2
-    - 2.4.0-exp.3
     compatible:
     - 2.3.0
-    - 2.4.0-exp.1
-    - 2.4.0-exp.2
-    - 2.4.0-exp.3
     recommended: 2.3.0
     deprecated: []
   dependencies:
@@ -4641,7 +4550,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638411351550000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.core-utils@2.3/manual/index.html
   hasRepository: 1
   repository:
@@ -4663,7 +4572,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4740,7 +4649,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4812,7 +4721,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.render-pipelines.core@14.0.11
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.render-pipelines.core@14.0.11
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4991,7 +4900,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.searcher@4.9.2
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.searcher@4.9.2
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5064,7 +4973,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.16
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.burst@1.8.16
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.burst@1.8.16
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -5073,7 +4982,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: 
   description: Burst is a compiler that translates from IL/.NET bytecode to highly
     optimized native code using LLVM.
   status: 0
@@ -5208,14 +5117,10 @@ m_ResolvedPackages:
     - 1.8.11
     - 1.8.12
     - 1.8.13
-    - 1.8.14
-    - 1.8.15
     - 1.8.16
-    - 1.8.17
     compatible:
     - 1.8.16
-    - 1.8.17
-    recommended: 1.8.17
+    recommended: 1.8.16
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -5238,7 +5143,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638538904590000000
+  datePublishedTicks: 0
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
   hasRepository: 1
   repository:
@@ -5260,7 +5165,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.10
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.render-pipelines.universal-config@14.0.10
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.render-pipelines.universal-config@14.0.10
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -5331,7 +5236,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.visualeffectgraph@14.0.11
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.visualeffectgraph@14.0.11
   assetPath: Packages/com.unity.visualeffectgraph
   name: com.unity.visualeffectgraph
   displayName: Visual Effect Graph
@@ -5483,7 +5388,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.render-pipelines.high-definition-config@14.0.11
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.render-pipelines.high-definition-config@14.0.11
   assetPath: Packages/com.unity.render-pipelines.high-definition-config
   name: com.unity.render-pipelines.high-definition-config
   displayName: High Definition RP Config
@@ -5554,7 +5459,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -5620,7 +5525,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.2
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -5692,7 +5597,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.5
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.testtools.codecoverage@1.2.5
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.testtools.codecoverage@1.2.5
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -5741,11 +5646,9 @@ m_ResolvedPackages:
     - 1.2.3
     - 1.2.4
     - 1.2.5
-    - 1.2.6
     compatible:
     - 1.2.5
-    - 1.2.6
-    recommended: 1.2.6
+    recommended: 1.2.5
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -5800,7 +5703,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.1
   source: 1
-  resolvedPath: E:\VR-project\VR-FPS\Library\PackageCache\com.unity.settings-manager@2.0.1
+  resolvedPath: C:\General\Coding\VR-games\VR-FPS\Library\PackageCache\com.unity.settings-manager@2.0.1
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
